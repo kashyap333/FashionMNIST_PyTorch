@@ -1,4 +1,4 @@
-# FashionMNIST_PyTorch
+# FashionMNIST_PyTorch (Work in Progress)
 
 Image classification on one of the mostr popular Fashion MNIST dataset in PyTorch
 
